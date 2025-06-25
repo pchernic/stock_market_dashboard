@@ -16,7 +16,7 @@ ERROR_COLOR = "#f85149"
 
 # Layout
 app.layout = html.Div(style={'backgroundColor': BG_COLOR, 'padding': '30px', 'fontFamily': 'Arial'}, children=[
-    html.H1("📈 Professional Stock Dashboard", style={
+    html.H1("📈 Interactive Stock Dashboard", style={
         'textAlign': 'center',
         'color': TEXT_COLOR,
         'marginBottom': '30px'
