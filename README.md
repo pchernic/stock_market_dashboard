@@ -65,3 +65,7 @@ pip install -r requirements.txt
 
 python app.py
 
+
+
+![image](https://github.com/user-attachments/assets/c21b69bf-c326-4832-abb2-09a37a1b859a)
+
