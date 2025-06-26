@@ -31,13 +31,6 @@ A modern, dark-themed dashboard built with [Dash](https://dash.plotly.com/) and 
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard View:
-![Dashboard Screenshot](screenshots/dashboard.png)
-
-### Fundamentals View:
-![Fundamentals Screenshot](screenshots/fundamentals.png)
 
 ---
 
@@ -65,7 +58,8 @@ pip install -r requirements.txt
 
 python app.py
 
+## 📸 Screenshots
 
+### Dashboard View:
 
-![image](https://github.com/user-attachments/assets/c21b69bf-c326-4832-abb2-09a37a1b859a)
-
+![image](https://github.com/user-attachments/assets/862aeacd-f731-40c0-a0bf-3b792553bd98)
